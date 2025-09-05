@@ -1,8 +1,8 @@
 # <a href="https://www.linkedin.com/in/levyborromeo/">Levy Borromeo</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Welcome! I'm Levy Borromeo - a seasoned project manager transitioning into cybersecurity with a focus on vulnerability management, threat detection, and risk mitigation. My background in leading initiatives, optimising workflows, and driving customer-centric innovation gives me a strategic edge in understanding security from both technical and business perspectives. 
+Welcome! I'm Levy Borromeo - a seasoned project manager transitioning into cybersecurity with a focus on vulnerability management, threat detection, and risk mitigation. My background in leading corporate initiatives, optimising workflows, and driving customer-centric innovation gives me a strategic edge in understanding security from both technical and business perspectives. 
 
-Currently undergoing hands-on training in a simulated Security Operations Centre (SOC), where I work with enterprise-grade tools such as:
+I'm currently undergoing hands-on training in a simulated Security Operations Centre (SOC), where I work with enterprise-grade tools such as:
 - **Tenable** for vulnerability scanning and remediation
 - **Microsoft Sentinel (SIEM)** for log analysis and threat detection
 - **Defender for Endpoint (EDR)** for incident response
@@ -11,7 +11,7 @@ Currently undergoing hands-on training in a simulated Security Operations Centre
 **What you'll find in this portfolio:**
 - Real-world cybersecurity labs and documentation
 - Python scripts for automation and analysis
-- Risk assessment frameworks and threat modeling exercises
+- Risk assessment and threat hunting exercises
 - Projects that reflect my ability to translate business needs into secure, scalable solutions
   
 ## ⚠️ Vulnerability Management Projects
