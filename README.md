@@ -17,11 +17,11 @@ I'm currently undergoing hands-on training in a simulated Security Operations Ce
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/levyborromeo/vulnerability-management)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/levyborromeo/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/levyborromeo/vulnerability-remediation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/levyborromeo/Threat-Hunting/tree/fdf494923e738d01258094fa25ec962048632982)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/levyborromeo/Threat-Hunting)**
 
 <hr/>
 
