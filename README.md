@@ -18,6 +18,7 @@ I'm currently undergoing hands-on training in a simulated Security Operations Ce
 
 - **[Vulnerability Management Program Implementation](https://github.com/levyborromeo/vulnerability-management)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/levyborromeo/vulnerability-remediation)**
+- **[DISA STIGs Implementation](https://github.com/levyborromeo/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
